@@ -1,0 +1,1 @@
+g++ main.cpp -o pi.exe --std=c++17

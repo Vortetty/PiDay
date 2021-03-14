@@ -1,0 +1,1 @@
+g++ main.cpp -o pi --std=c++17
